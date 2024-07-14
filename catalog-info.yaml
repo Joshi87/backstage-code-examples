@@ -4,7 +4,8 @@ metadata:
   name: backstage
   description: |
     Backstage is an open-source developer portal that puts the developer experience first.
-  tags: doc
+  tags:
+    - java
   links:
     - title: Website
       url: http://backstage.io
