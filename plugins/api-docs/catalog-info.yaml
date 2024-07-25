@@ -5,7 +5,7 @@ metadata:
   title: '@backstage/plugin-api-docs'
   description: A Backstage plugin that helps represent API entities in the frontend
   tags:
-    - java
+    -name:java
 spec:
   lifecycle: experimental
   type: backstage-frontend-plugin
