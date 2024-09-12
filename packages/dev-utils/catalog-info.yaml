@@ -1,7 +1,5 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
-tags:
-  - _java$
 metadata:
   name: backstage-dev-utils
   title: '@backstage/dev-utils'
